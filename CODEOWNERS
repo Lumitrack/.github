@@ -1,0 +1,5 @@
+# CODEOWNERS — controle centralizado pela equipe principal
+# Sintaxe: <padrão de caminho> <@usuário ou @org/time>
+
+# Fallback: todo o repositório pertence à equipe principal
+* @Lumitrack/core-team
